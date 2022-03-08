@@ -13,14 +13,17 @@ Using various basic graphics functions to establish our goal to implement a visu
 
 
 
+
 ![image](https://user-images.githubusercontent.com/89535286/157287312-86b94886-127f-4ee4-a5ed-db3489f089a2.png)
 
 **The user has to press 1 to start the game**
+
 **After entering, instructions will be displayed to the user .**
 
-![image](https://user-images.githubusercontent.com/89535286/157287539-b4328484-e9f1-4ef4-9780-bfe437b6b454.png)
+![image](https://user-images.githubusercontent.com/89535286/157289006-d7018450-4573-42ee-bb88-59f520fb7283.png)
 
-![image](https://user-images.githubusercontent.com/89535286/157287568-dda5e36c-a8ce-4c3e-90d2-cbd04bc88540.png)
+![image](https://user-images.githubusercontent.com/89535286/157289147-8fabefc8-0e69-4d2a-b97f-a00acb43579f.png)
+
 
 ![image](https://user-images.githubusercontent.com/89535286/157287591-dc8fd03c-c489-4376-bf94-9022129e930a.png)
 
